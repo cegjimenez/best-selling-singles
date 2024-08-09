@@ -2,7 +2,7 @@
 
 !["Best-Selling Singles Dashboard"](preview.png)
 
-This project establishes a data pipeline to extract best-selling singles data from Wikipedia and load it into a PostgreSQL database. Power BI leverages this database to generate dynamic sales dashboards.
+This project establishes a data pipeline to extract best-selling singles data from a specified url and load it into a PostgreSQL database. Power BI leverages this database to generate dynamic sales dashboards.
 
 &nbsp;
 ## Features
